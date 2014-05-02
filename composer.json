@@ -1,0 +1,19 @@
+{
+    "name": "ujjwal/money",
+    "description": "Monetary Value Object for PHP",
+    "license": "MIT",
+    "keywords": [
+        "money"
+    ],
+    "autoload": {
+        "psr-4": {
+            "MoneyManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ojhaujjwal",
+            "email": "bring2uo@gmail.com"
+        }
+    ]
+}
